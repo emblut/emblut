@@ -1,5 +1,5 @@
 # ✨ Hello there! ✨
-I'm Embla, a frontend-focused web dev, currently pouring my heart into becoming a great software developer and team player! 💕
+I'm Embla, a frontend-focused web dev, currently pouring my heart into becoming a great software developer! 💕
 
 ## Current tech-obsession:
 * 🗃️ Database design
