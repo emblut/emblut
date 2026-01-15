@@ -1,12 +1,11 @@
 # ✨ Hello there! ✨
-I'm Embla, a frontend-focused web dev, currently pouring my heart into becoming a great software developer! 💕
+I'm Embla, a frontend-focused web dev, currently pouring my heart into becoming a great software developer! 
 
 ## Current tech-obsession:
 * 🗃️ Database design
 
 ## Quick "About Me" 🗝️
 *   📙 I’m a student at Folkuniversitetet Göteborg
-*   👩🏻‍🎓 On the hunt for a trainee (LIA) position for the start of 2026 in front- or backend development
 *   💖 I love all things design
 *   🚀 However, backend has had me hooked lately
 
